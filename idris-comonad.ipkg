@@ -1,0 +1,13 @@
+package idris_comonad
+
+brief = "An implementation of comonads in idris"
+version = 0.1.0
+readme = ./README.md
+license = "MIT"
+author = "Risto Stevcev"
+maintainer = "Risto Stevcev"
+homepage = https://github.com/Risto-Stevcev/idris-comonad
+sourceloc = https://github.com/Risto-Stevcev/idris-comonad
+bugtracker = https://github.com/Risto-Stevcev/idris-comonad/issues
+
+modules = Control.Comonad
